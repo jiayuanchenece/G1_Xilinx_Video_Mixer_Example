@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Apr  7 09:03:55 2019
+# Process ID: 8268
+# Current directory: C:/Users/Tristan/Videos/Nexys-Video-HDMI-master/proj/Nexys-Video-HDMI-master.runs/hdmi_microblaze_0_axi_intc_0_synth_1
+# Command line: vivado.exe -log hdmi_microblaze_0_axi_intc_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source hdmi_microblaze_0_axi_intc_0.tcl
+# Log file: C:/Users/Tristan/Videos/Nexys-Video-HDMI-master/proj/Nexys-Video-HDMI-master.runs/hdmi_microblaze_0_axi_intc_0_synth_1/hdmi_microblaze_0_axi_intc_0.vds
+# Journal file: C:/Users/Tristan/Videos/Nexys-Video-HDMI-master/proj/Nexys-Video-HDMI-master.runs/hdmi_microblaze_0_axi_intc_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source hdmi_microblaze_0_axi_intc_0.tcl -notrace
