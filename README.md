@@ -27,7 +27,7 @@ G1_Xilinx_Video_Mixer_Example
   ┃ ┃ ┃ ┃ ┣ lscript.ld                      # Linker file
   ┃ ┃ ┃ ┃ ┣ main.c                          # Main – entry point
   ┃ ┃ ┃ ┗ ┗ main.h                          # Main includes
-  ┃ ┃ ┣ mixer_bsp                          # System board support file
+  ┃ ┃ ┣  mixer_bsp                          # System board support file
   ┃ ┃ ┃ ┣ Makefile                          # SDK Makefile
   ┃ ┃ ┃ ┗ system.mss                        # System microprocessor software spec
   ┃ ┃ ┣ top_hw_platform_0					
