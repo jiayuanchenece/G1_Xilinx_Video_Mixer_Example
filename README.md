@@ -1,5 +1,9 @@
 # G1_Xilinx_Video_Mixer_Example
 
+This is an example project created to demonstrate the use of the Xilinx Video Mixer IP.
+
+This project uses the Nexys Video FPGA and outputs the alpha blending of two sample test
+patterns through HDMI.
 
 ## 1.0 Project Structure
 
